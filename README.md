@@ -1,5 +1,11 @@
 The Minimal Chat App is a simple yet powerful messaging platform built using Flutter and Firebase. The app focuses on providing a clean, minimalistic user experience while maintaining essential chat functionality. Its lightweight design and real-time communication features make it ideal for users who want an uncomplicated messaging solution.
 
+<p align="center">
+  <img src="screenshots/login.jpg" width="270" alt="Login screen" />
+  &nbsp;&nbsp;
+  <img src="screenshots/chat.jpg" width="270" alt="Real-time one-to-one chat" />
+</p>
+
 Key Features:
 
   1.	User Authentication:
